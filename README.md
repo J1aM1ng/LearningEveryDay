@@ -10,6 +10,11 @@
   * issue就作为博客，同样同步一些想法和随想。
   
 
+## 学习资料
+
+* [现代JavaScript教程](https://zh.javascript.info/)
+* 
+
 
 ## 传送门
 
